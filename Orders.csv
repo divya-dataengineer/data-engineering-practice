@@ -1,0 +1,85 @@
+OrderID,ProductName,Category,Price,Quantity,OrderDate,CustomerID
+1017,Office Chair,Furniture,31.46,4,15-Apr-24,24
+1080,Dumbbell Set,FITNESS,180.27,1,24-Jan-24,8
+1023,Office Chair,furniture,,1,10-Jul-24,2
+1029,Standing Desk,Furniture,233.85,2,4-Apr-24,6
+1021,Yoga Mat,fitness ,124.49,1,12-Feb-24,1
+1008,Non-stick Pan,Kitchen,218.67,2,9-Feb-24,25
+1058,Standing Desk,FURNITURE ,125.27 USD,5,20-Jan-24,8
+1078,USB-C Cable,Electronics ,59.33,3,12-Mar-24,18
+1014,Bluetooth Speaker,ELECTRONICS,13.09,2,1/2/2024,23
+1022,Yoga Mat,fitness ,232.22,2,18-Apr-24,5
+1073,Coffee Maker,Kitchen,92.02,3,18-Jan-24,1
+1027,Sticky Notes,stationery,65.76,2,27-Apr-24,25
+1037,Office Chair,FURNITURE ,,4,6/7/2024,8
+1065,Fountain Pen,stationery,40.84,1,7-Mar-24,11
+1063,Office Chair,furniture,,3,20-Jun-24,24
+1010,Wireless Mouse,electronic,220.48,1,6-Jul-24,3
+1077,Office Chair,furniture,145.9,3,8-Jan-24,11
+1005,Bluetooth Speaker,Electronics ,100.35,2,5/21/2024,22
+1064,USB-C Cable,Electronics ,230.53,1,4/10/2024,3
+1057,Dumbbell Set,Fitness,187.96,2,7/11/2024,21
+1050,Fountain Pen,Stationery,131.7,1,6/17/2024,10
+1026,Notebook Set,Stationery,157.89,3,3/7/2024,22
+1053,Yoga Mat,FITNESS,147.31,4,6-May-24,8
+1042,Coffee Maker,kitchen ,92.98,3,1/8/2024,9
+1052,Coffee Maker,Kitchen,,5,6/5/2024,15
+1067,Blender,Kitchen,121.81,1,3/30/2024,21
+1075,USB-C Cable,Electronics ,50.63,2,6-Jun-24,15
+1002,Non-stick Pan,KITCHEN,119.04,2,9-Jul-24,24
+1006,Sticky Notes,Stationery,172.97,2,15-Jul-24,4
+1011,Coffee Maker,KITCHEN,$193.33 ,5,5/20/2024,9
+1051,Running Shoes,FITNESS,161.17,2,21-Jun-24,8
+1072,Notebook Set,Stationary,209.0 USD,2,6/24/2024,19
+1062,Wireless Mouse,ELECTRONICS,80.26,4,5/17/2024,16
+1056,Fountain Pen,Stationary,247.07,5,5-Jun-24,18
+1060,Sticky Notes,Stationery,,4,25-Mar-24,14
+1054,USB-C Cable,Electronics,224.02,1,18-Jul-24,8
+1032,Office Chair,FURNITURE ,90.98,2,9-May-24,9
+1044,Notebook Set,Stationary,35.99,2,3/6/2024,23
+1052,Coffee Maker,Kitchen,,5,6/5/2024,15
+1036,Notebook Set,Stationary,$43.84 ,2,4/3/2024,12
+1004,Coffee Maker,Kitchen,$216.39 ,1,23-Jun-24,20
+1003,Notebook Set,stationery,225.27,2,5-Feb-24,3
+1040,Bluetooth Speaker,Electronics ,219.06,2,21-Feb-24,12
+1009,USB-C Cable,Electronics,152.94,1,2-Apr-24,8
+1074,Blender,kitchen ,,3,11-Jun-24,23
+1076,Yoga Mat,FITNESS,151.38,2,23-Jan-24,15
+1001,Wireless Mouse,ELECTRONICS,,3,24-Feb-24,13
+1020,Coffee Maker,KITCHEN,31.69,1,1/24/2024,6
+1012,Running Shoes,FITNESS,110.4 USD,2,1-Jul-24,13
+1066,Office Chair,furniture,87.1,4,12-Mar-24,9
+1015,Fountain Pen,Stationery,63.4,3,1/19/2024,9
+1079,Wireless Mouse,electronic,28.72,5,5/22/2024,23
+1013,Fountain Pen,Stationary,98.37,5,1/31/2024,8
+1007,Standing Desk,furniture,,2,5/8/2024,17
+1019,Running Shoes,fitness ,$41.92 ,5,3/4/2024,15
+1039,Non-stick Pan,kitchen ,197.34,2,3/9/2024,23
+1034,Coffee Maker,Kitchen,162.18,5,21-May-24,18
+1049,Running Shoes,Fitness,81.54 USD,3,29-Apr-24,15
+1038,Blender,Kitchen,244.24,4,1/7/2024,24
+1047,Standing Desk,FURNITURE ,106.83,2,5/21/2024,7
+1018,Wireless Mouse,Electronics,22.67,1,3/4/2024,7
+1031,Bluetooth Speaker,electronic,72,1,10-Mar-24,20
+1075,USB-C Cable,Electronics ,50.63,2,6-Jun-24,15
+1028,Non-stick Pan,Kitchen,10.25,1,1/19/2024,17
+1069,USB-C Cable,Electronics ,170.01,2,29-Apr-24,25
+1024,Wireless Mouse,Electronics ,129.69,1,1/15/2024,6
+1070,Bookshelf,Furniture,154.63,1,7/18/2024,10
+1041,Standing Desk,Furniture,61.95,4,25-Mar-24,3
+1025,Bluetooth Speaker,Electronics,171.4 USD,1,5/25/2024,19
+1016,Fountain Pen,stationery,$59.85 ,5,3-Mar-24,14
+1030,Dumbbell Set,FITNESS,178.26,1,19-Jun-24,22
+1033,Non-stick Pan,Kitchen,30.34,2,1/12/2024,11
+1040,Bluetooth Speaker,Electronics ,219.06,2,21-Feb-24,12
+1035,Wireless Mouse,Electronics,26.21,1,5/19/2024,12
+1059,Standing Desk,furniture,85.37,1,2/8/2024,13
+1046,Fountain Pen,stationery,158.8,1,3-Jul-24,17
+1043,USB-C Cable,ELECTRONICS,17.26,3,5-Jul-24,14
+1032,Office Chair,FURNITURE ,90.98,2,9-May-24,9
+1055,USB-C Cable,Electronics ,20.15 USD,1,4/26/2024,15
+1045,Yoga Mat,Fitness,133.82,2,3-Apr-24,3
+1068,Bluetooth Speaker,Electronics,190.52,2,1/6/2024,8
+1071,Bluetooth Speaker,Electronics,232.79,4,4/11/2024,3
+1061,Wireless Mouse,electronic,209.56,1,14-Jul-24,16
+1048,Yoga Mat,FITNESS,235.57,1,6-Jun-24,13
